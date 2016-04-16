@@ -11,7 +11,7 @@
         );
 		// Update your Google Cloud Messaging API Key
 		if (!defined('GOOGLE_API_KEY')) {
-			define("GOOGLE_API_KEY", "FOLKS, ENTER YOUR API KEY HERE!"); 		
+			define("GOOGLE_API_KEY", "FOLKS, ENTER YOUR API KEY HERE AND HAVE FUN!"); 		
 		}
         $headers = array(
             'Authorization: key=' . GOOGLE_API_KEY,
